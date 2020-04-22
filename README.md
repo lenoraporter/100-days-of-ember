@@ -125,7 +125,7 @@ Understand Ember core concepts:
 
 Week 1
 
-<img src="images/readme/rarwe-3-book-cover.png" width="200">
+<img src="images/rarwe-3-book-cover.png" width="200">
 
 Rock & Roll with Ember. JS
 
@@ -145,7 +145,7 @@ Rock & Roll with Ember. JS
 
 Week 2
 
-<img src="images/readme/rarwe-3-book-cover.png" width="200">
+<img src="images/rarwe-3-book-cover.png" width="200">
 
 Rock & Roll with Ember. JS
 
@@ -161,7 +161,7 @@ Rock & Roll with Ember. JS
 
 Week 3
 
-<img src="images/readme/super-rentals.png" width="400">
+<img src="images/super-rentals.png" width="400">
 
 Super Rentals
 
@@ -180,7 +180,7 @@ Super Rentals
 
 Week 4
 
-<img src="images/readme/super-rentals.png" width="400">
+<img src="images/super-rentals.png" width="400">
 
 Super Rentals
 
